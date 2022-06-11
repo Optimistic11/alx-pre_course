@@ -1,2 +1,1 @@
-some text
-not empty
+my second readme
